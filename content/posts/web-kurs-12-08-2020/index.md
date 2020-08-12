@@ -3,7 +3,7 @@ title = "Web-Kurs 12.08.2020"
 date = "2020-08-12"
 draft = false
 pinned = false
-image = "web-development.jpg"
+image = ""
 +++
 ### **Was möchte ich lernen?**
 
