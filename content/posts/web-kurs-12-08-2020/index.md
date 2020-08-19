@@ -1,9 +1,10 @@
 +++
-title = "Web-Kurs 12.08.2020"
+title = "Isabelle Bracher's Blog"
 date = "2020-08-12"
 draft = false
 pinned = false
-image = ""
+image = "9eed7b0292a312ea55a1a69088a916db.jpg"
+footnotes = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F568931365423975687%2F&psig=AOvVaw1Bx5Dz8BOg7CX_1vqdKm3w&ust=1597925308880000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCOj16-adp-sCFQAAAAAdAAAAABAV"
 +++
 ### **Was möchte ich lernen?**
 
