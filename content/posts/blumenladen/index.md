@@ -3,7 +3,7 @@ title = "𝔹𝕝𝕦𝕞𝕖𝕟𝕝𝕒𝕕𝕖𝕟"
 date = "2020-08-19"
 draft = false
 pinned = false
-image = "unbenannt.png"
+image = "blumen.jpg"
 footnotes = "https://kukkakaupa.carrd.co/"
 +++
 ### **Verbesserungen:**
