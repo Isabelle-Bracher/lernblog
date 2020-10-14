@@ -1,5 +1,5 @@
 +++
-title = "Isabelle Bracher's Blog"
+title = "𝕀𝕤𝕒𝕓𝕖𝕝𝕝𝕖 𝔹𝕣𝕒𝕔𝕙𝕖𝕣'𝕤 𝔹𝕝𝕠𝕘"
 date = "2020-08-12"
 draft = false
 pinned = false
