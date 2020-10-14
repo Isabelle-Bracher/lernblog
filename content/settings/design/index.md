@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/tokyo-1-.jpg"
 logo = "/media/totoro.png"
-image = ""
+image = "/media/cat.gif"
 color = ""
 +++
