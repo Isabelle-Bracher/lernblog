@@ -1,5 +1,5 @@
 +++
-title = "Probleme & Bedürfnisse"
+title = "ℙ𝕣𝕠𝕓𝕝𝕖𝕞𝕖 & 𝔹𝕖𝕕ü𝕣𝕗𝕟𝕚𝕤𝕤𝕖"
 date = "2020-08-26"
 draft = false
 pinned = false
