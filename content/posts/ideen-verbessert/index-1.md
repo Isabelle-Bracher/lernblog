@@ -3,6 +3,7 @@ title = "Ideen verbessert"
 date = "2020-09-02"
 draft = true
 pinned = false
+image = "game-pic.png"
 +++
 heute bekamen wir den Auftrag, unsere Ideen zu erweitern und noch zu verbessern. Andrin und ich haben dann auch mit Marco unsere Ideen geteilt und er hat uns Verbesserungsvorschläge gegeben und uns gesagt, was wir machen sollten. Wir haben dann ein Word-Dokument gestaltet und unsere Ideen und die fragen von Marco dort aufgeschrieben. Wir haben dann folgende Ideen gehabt:
 
