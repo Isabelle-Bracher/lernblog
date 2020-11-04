@@ -1,7 +1,7 @@
 +++
-title = "Projektplanung"
+title = "ℙ𝕣𝕠𝕛𝕖𝕜𝕥𝕡𝕝𝕒𝕟𝕦𝕟𝕘"
 date = "2020-11-04"
-draft = true
+draft = false
 pinned = false
 image = "selbststaendig-planung.jpg"
 +++
