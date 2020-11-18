@@ -1,7 +1,7 @@
 +++
-title = "Gimp"
+title = "𝔾𝕀𝕄ℙ"
 date = "2020-11-18"
-draft = true
+draft = false
 pinned = false
 image = "gimp2.png"
 +++
