@@ -1,7 +1,7 @@
 +++
-title = "No-Times"
+title = "ℕ𝕠-𝕋𝕚𝕞𝕖𝕤"
 date = "2020-12-09"
-draft = true
+draft = false
 pinned = false
 image = "no-times.png"
 +++
