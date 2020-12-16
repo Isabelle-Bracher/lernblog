@@ -1,7 +1,7 @@
 +++
-title = "Corona Vaccine Eintrag"
+title = "ℂ𝕠𝕣𝕠𝕟𝕒 𝕀𝕞𝕡𝕗𝕤𝕥𝕠𝕗𝕗 𝔼𝕚𝕟𝕥𝕣𝕒𝕘"
 date = "2020-12-16"
-draft = true
+draft = false
 pinned = false
 image = "vaccine.webp"
 +++
