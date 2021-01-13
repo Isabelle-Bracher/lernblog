@@ -1,5 +1,5 @@
 +++
-title = "Britische Mutation ein Heilmittel?"
+title = " 𝔹𝕣𝕚𝕥𝕚𝕤𝕔𝕙𝕖 𝕄𝕦𝕥𝕒𝕥𝕚𝕠𝕟 𝕖𝕚𝕟 ℍ𝕖𝕚𝕝𝕞𝕚𝕥𝕥𝕖𝕝?"
 date = "2021-01-13"
 draft = true
 pinned = false
