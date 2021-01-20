@@ -1,7 +1,7 @@
 +++
-title = "Web Abschlussbericht 2021"
+title = "𝕎𝕖𝕓 𝔸𝕓𝕤𝕔𝕙𝕝𝕦𝕤𝕤𝕓𝕖𝕣𝕚𝕔𝕙𝕥 𝟚𝟘𝟚𝟙"
 date = "2021-01-20"
-draft = true
+draft = false
 pinned = false
 image = "bugcat-capoo.png"
 +++
