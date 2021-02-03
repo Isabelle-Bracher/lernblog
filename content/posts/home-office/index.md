@@ -1,7 +1,7 @@
 +++
-title = "Home Office"
+title = "𝕌𝔽𝕆 𝕊𝕚𝕘𝕙𝕥𝕚𝕟𝕘 ℕ𝕖𝕒𝕣 𝔸𝕣𝕖𝕒 𝟝𝟙"
 date = "2021-02-03"
-draft = true
+draft = false
 pinned = false
 image = "home-office-aesthetic.jpg"
 +++
