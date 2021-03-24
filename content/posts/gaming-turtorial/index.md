@@ -1,7 +1,7 @@
 +++
 title = "Gaming turtorial"
 date = "2021-03-24"
-draft = false
+draft = true
 pinned = false
 image = "2021-03-24.png"
 +++
